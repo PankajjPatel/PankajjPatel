@@ -35,7 +35,7 @@
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-hi
+
 
 ---
 
