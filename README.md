@@ -5,7 +5,7 @@
 - 💻 **Specialization**: Python, Django, MySQL, REST APIs
 - 🎓 **Education**: B.Tech CSE (2023-2027) | Chameli Devi Group of Institutions
 - 🏆 **Certifications**: OCI AI Foundaation, OCI Generative AI Professional, Cisco Python Fundamentals
-- 🔗 **Portfolio**: [pankaj-portfolio.up.railway.app](https://pankaj-portfolio.up.railway.app)
+- 🔗 **Portfolio**: https://pankaj-patel-portfolio.vercel.app
 - 📧 **Email**: pankajlucky678@gmail.com
 
 --- 
